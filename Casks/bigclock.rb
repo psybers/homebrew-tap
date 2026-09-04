@@ -1,4 +1,4 @@
-cask "BigClock" do
+cask "bigclock" do
   version "0.1.0"
   sha256 "41f4f4bc11789100768a8dc029c1c4d9b6f5c5b2a37b8e3dc1e4c5c104bb7be8"
 
