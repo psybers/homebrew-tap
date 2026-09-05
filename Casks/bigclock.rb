@@ -1,6 +1,6 @@
 cask "bigclock" do
-  version "0.1.0"
-  sha256 "41f4f4bc11789100768a8dc029c1c4d9b6f5c5b2a37b8e3dc1e4c5c104bb7be8"
+  version "0.2.0"
+  sha256 "cf6f457cdf0900f115e1a3ea09d5e59c8b78ef1b3e40efd9e726dfca45ca8911"
 
   url "https://github.com/psybers/bigclock/releases/download/v#{version}/BigClock-v#{version}.dmg"
   name "BigClock"
