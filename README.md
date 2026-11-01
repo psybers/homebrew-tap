@@ -1,2 +1,2 @@
-# homebrew-bigclock
-Homebrew tap for BigClock
+# homebrew-tap
+Homebrew tap for BigClock and Snappy
