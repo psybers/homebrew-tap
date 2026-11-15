@@ -1,6 +1,6 @@
 cask "launchcon" do
-  version "0.1.1"
-  sha256 "3e5add2af61b05a57bbef6f83ef14fbd8cb201f0e2b0ec83d868281f1f203e5a"
+  version "0.1.2"
+  sha256 "73e246b430cb68f78542770c370aae6ed65777abe8d6ba04739c169a0d2bb7b1"
 
   url "https://github.com/psybers/launchcon/releases/download/v#{version}/LaunchCon-v#{version}.dmg"
   name "LaunchCon"
