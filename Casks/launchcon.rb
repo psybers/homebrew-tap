@@ -4,7 +4,7 @@ cask "launchcon" do
 
   url "https://github.com/psybers/launchcon/releases/download/v#{version}/LaunchCon-v#{version}.dmg"
   name "LaunchCon"
-  desc "A screen measurement utility"
+  desc "A native macOS app for managing launchd jobs"
   homepage "https://github.com/psybers/launchcon"
 
   # This tells Homebrew to move the .app from the DMG to the user's /Applications folder
