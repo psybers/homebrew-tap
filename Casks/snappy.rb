@@ -1,6 +1,6 @@
 cask "snappy" do
-  version "0.3.2"
-  sha256 "d7ae847a6b30d37678cb81ed07092ed451558331e70c629d27bcd58885a9df07"
+  version "0.4.0"
+  sha256 "e4b3f06c9a156a35d0516a0d5425b0b5a0a1e4c487eab05504484c5b0142a331"
 
   url "https://github.com/psybers/snappy/releases/download/v#{version}/Snappy-v#{version}.dmg"
   name "Snappy"
